@@ -1,6 +1,6 @@
 ## olá 😎
 Boas vindas ao meu perfil 💙💙
-Meu nome é nome Geovane 😉
+Meu nome é Geovane 😉
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript.
